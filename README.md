@@ -11,3 +11,5 @@ example：
 2、Run the logo.sh script to generate the logo
 
     ./logo.sh
+
+3、Copy logo_linux_clut22.4 to linux/kernel/drivers/video/logo directory for replacement
